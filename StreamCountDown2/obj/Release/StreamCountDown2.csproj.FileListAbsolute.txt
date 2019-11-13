@@ -1,0 +1,9 @@
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\bin\Release\StreamCountDown2.exe.config
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\bin\Release\StreamCountDown2.exe
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\bin\Release\StreamCountDown2.pdb
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\obj\Release\StreamCountDown2.frmMain.resources
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\obj\Release\StreamCountDown2.Properties.Resources.resources
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\obj\Release\StreamCountDown2.csproj.GenerateResource.cache
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\obj\Release\StreamCountDown2.exe
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\obj\Release\StreamCountDown2.pdb
+C:\Users\LenDog\source\repos\StreamCountDown2\StreamCountDown2\obj\Release\StreamCountDown2.csprojAssemblyReference.cache
